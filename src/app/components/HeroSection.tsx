@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import HeroSecCard from "./HeroSecCard";
-import styles from "../../../styles/custom.module.css"; // Import custom CSS
 
 const HeroSection = () => {
   return (

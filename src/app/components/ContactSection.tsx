@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 const ContactSection: React.FC = () => {
   return (
     <div className="contact-container">
